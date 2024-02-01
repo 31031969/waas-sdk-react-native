@@ -9,7 +9,7 @@
     "pods": "pod-install --quiet"
   },
   "dependencies": {
-    "@react-native-clipboard/clipboard": "^1.11.0",
+    "@react-native-clipboard/clipboard": "^1.13.2",
     "@react-navigation/native": "^6.1.1",
     "@react-navigation/native-stack": "^6.9.7",
     "react": "18.2.0",
